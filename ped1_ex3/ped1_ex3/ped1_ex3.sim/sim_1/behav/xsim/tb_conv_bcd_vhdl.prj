@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"C:/Users/ffjoe/Downloads/decodificador/Conv_BCD.vhd" \
+"C:/Users/ffjoe/Downloads/decodificador/tb_conv_bcd_7seg.vhd" \
+
+# Do not sort compile order
+nosort
